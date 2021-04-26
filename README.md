@@ -1,5 +1,6 @@
 Hi! Im Stas .-.
 
+
 ;=================
 ; About me
 ;==========
@@ -70,7 +71,7 @@ my Telegram - @Mani_Fast
 
 my Steam    - steamcommunity.com/id/manifast/
 
-my YouTube  - youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ
+my YouTube  - [youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ]
 
 my Discord  - ManiFast#8021
 
