@@ -69,7 +69,7 @@ Sensitive : DPI:750 | CSGO:1.70
 
 my Telegram - @Mani_Fast
 
-[my Steam](steamcommunity.com/id/manifast/)
+[my Steam](steamcommunity.com/id/manifast/)\n\n
 
 my YouTube  - [youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ]
 
