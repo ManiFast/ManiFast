@@ -7,7 +7,7 @@ Hi! Im Stas .-.
 
 Im 15, Im interested in software and in my free time I play games 🎮 or make bit 🎵.
 At this moment I have portfolio with my skills:
-		I learned web development - (HTML, CSS, SCSS, Bootstrap, JQuery).
++ I learned web development - (HTML, CSS, SCSS, Bootstrap, JQuery).
 		Ability to work with C++, JavaScript and Python.
 		I know Git and ahk.
 		I can working with VS Studio, VS Code +plugins, Brackets, Photoshop and FL Studio.
