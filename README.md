@@ -17,8 +17,8 @@ Most importantly - I l❤️ve what I do and I get high when everything works ou
 
 >Integration
 
-[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=00B1FF&style=flat-square)](https://t.me/Mani_Fast)
-[![Steam](https://img.shields.io/static/v1?label=&message=Steam&color=000000&style=flat-square)](steamcommunity.com/id/manifast/)
-[![YouTube](https://img.shields.io/static/v1?label=&message=YouTube&color=FF1515&style=flat-square)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
-![Discord#8021](https://img.shields.io/static/v1?label=Discord&message=ManiFast#8021&color=7289D9&style=flat-square)
-![Spotify](https://img.shields.io/static/v1?label=Spotify&message=ManiFast&color=1ED760&style=flat-square)
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=00B1FF&style=flat-square?style=for-the-badge&logo=Telegram)](https://t.me/Mani_Fast)
+[![Steam](https://img.shields.io/static/v1?label=&message=Steam&color=000000&style=flat-square?style=for-the-badge&logo=Steam)](steamcommunity.com/id/manifast/)
+[![YouTube](https://img.shields.io/static/v1?label=&message=YouTube&color=FF1515&style=flat-square?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
+![Discord#8021](https://img.shields.io/static/v1?label=Discord&message=ManiFast#8021&color=7289D9&style=flat-square?style=for-the-badge&logo=Discord)
+![Spotify](https://img.shields.io/static/v1?label=Spotify&message=ManiFast&color=1ED760&style=flat-square?style=for-the-badge&logo=Spotify)
