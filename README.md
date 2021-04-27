@@ -26,10 +26,10 @@ Most importantly - I l❤️ve what I do and I get high when everything works ou
 ![Spotify](https://img.shields.io/static/v1?label=Spotify&message=ManiFast&color=1ED760?style=for-the-badge&logo=Spotify&style=flat-square)
 -->
 
-[![Telegram](https://img.shields.io/badge/-Telegram-004DFF?style=for-the-badge&logo=Telegram)](https://t.me/Mani_Fast)
-[![Steam](https://img.shields.io/badge/-Steam-004DFF?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/manifast/)
-[![YouTube](https://img.shields.io/badge/-YouTube-004DFF?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
-![ManiFast#8021](https://img.shields.io/badge/- -004DFF?style=for-the-badge&logo=Discord) Discord - ManiFast#8021
-![Spotify](https://img.shields.io/badge/- -004DFF?style=for-the-badge&logo=Spotify) Spotify - ManiFast
+[![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram)](https://t.me/Mani_Fast)
+[![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/manifast/)
+[![YouTube](https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
+![ManiFast#8021](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Discord) Discord - ManiFast#8021
+![Spotify](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Spotify) Spotify - ManiFast
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
