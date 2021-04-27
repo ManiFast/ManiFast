@@ -15,11 +15,9 @@ Now I learning C++. In free time I make different programs on different language
 My statement is - «While they were playing games, lounging and walking, I was developing, moving forward and made progress.».
 Most importantly - I l❤️ve what I do and I get high when everything works out ✔️.
 
-;====================
-; Integration
-;=============
+Integration
 
-![Telegram](https://img.shields.io/badge/-Telerram-00B1FFFF)
+![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=00B1FF&style=flat-square)
 
 my Telegram - @Mani_Fast
 
