@@ -17,7 +17,7 @@ Most importantly - I l❤️ve what I do and I get high when everything works ou
 
 >Integration
 
-[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=00B1FF?style=for-the-badge&logo=Telegram&style=flat-square)](https://t.me/Mani_Fast)
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram?style=for-the-badge&logo=Telegram&style=flat-square&color=00B1FF)](https://t.me/Mani_Fast)
 [![Steam](https://img.shields.io/static/v1?label=&message=Steam&color=000000?style=for-the-badge&logo=Steam&style=flat-square)](steamcommunity.com/id/manifast/)
 [![YouTube](https://img.shields.io/static/v1?label=&message=YouTube&color=FF1515?style=for-the-badge&logo=YouTube&style=flat-square)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
 ![Discord#8021](https://img.shields.io/static/v1?label=Discord&message=ManiFast#8021&color=7289D9?style=for-the-badge&logo=Discord&style=flat-square)
