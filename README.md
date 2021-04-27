@@ -7,7 +7,7 @@
 Im 15, Im interested in software and in my free time I play games 🎮 or make bit 🎵.
 At this moment I have portfolio with my skills:
 + I learned web development - (HTML, CSS, SCSS, Bootstrap, JQuery).
-+ Ability to work with C++, JavaScript and Python.
++ Ability to work with ![C++](https://img.shields.io/badge/-C%2b%2b-0D1117?style=for-the-badge&logo=C++&LogoColor=017CC7), ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript) and ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python).
 + I know Git and ahk.
 + I can working with VS Studio, VS Code +plugins, Brackets, Photoshop and FL Studio.
 
@@ -15,7 +15,6 @@ Now I learning C++. In free time I make different programs on different language
 My statement is - «While they were playing games, lounging and walking, I was developing, moving forward and made progress.».
 Most importantly - I l❤️ve what I do and I get high when everything works out ✔️.
 
- 
 
 >Integration
 <!--
