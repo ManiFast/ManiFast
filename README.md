@@ -20,5 +20,5 @@ Most importantly - I l❤️ve what I do and I get high when everything works ou
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=00B1FF&style=flat-square)](https://t.me/Mani_Fast)
 [![Steam](https://img.shields.io/static/v1?label=&message=Steam&color=000000&style=flat-square)](steamcommunity.com/id/manifast/)
 [![YouTube](https://img.shields.io/static/v1?label=&message=YouTube&color=FF1515&style=flat-square)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
-![Discord](https://img.shields.io/static/v1?label=&message=ManiFast#8021&color=7289D9&style=flat-square)
-[![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=FF1515&style=flat-square)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
+![Discord#8021](https://img.shields.io/static/v1?label=&message=ManiFast#8021&color=7289D9&style=flat-square)
+[![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=1ED760&style=flat-square)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
