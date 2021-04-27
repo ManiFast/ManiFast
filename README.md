@@ -17,14 +17,12 @@ Most importantly - I l❤️ve what I do and I get high when everything works ou
 
 Integration
 
-![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@Mani_Fast&color=red)
-
-my Telegram - @Mani_Fast
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@Mani_Fast&color=00B1FF)](https://t.me/Mani_Fast)
 
 [my Steam](steamcommunity.com/id/manifast/)
 
 [my YouTube](steamcommunity.com/id/manifast/)
-https://img.shields.io/youtube/channel/views/UCKcWOEWJ1hrUW1irBZz-8xQ?color=%2300B1FFFF&label=YouTube%20viewers&style=flat-square
+![Views](https://img.shields.io/youtube/channel/views/UCKcWOEWJ1hrUW1irBZz-8xQ?color=%2300B1FFFF&label=YouTube%20viewers&style=flat-square)
 
 my Discord  - ManiFast#8021
 
