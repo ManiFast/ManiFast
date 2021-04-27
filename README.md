@@ -1,3 +1,4 @@
+<!-- 27/04/21 -->
 [![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/header2.png)](https://www.youtube.com/watch?v=uykVCZpi7SU&ab_channel=JohnDodd)
 
 ### Hi!
@@ -26,7 +27,7 @@ Most importantly - I l❤️ve what I do and I get high when everything works ou
 -->
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram)](https://t.me/Mani_Fast)
-[![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=Steam)](steamcommunity.com/id/manifast/)
+[![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/manifast/)
 [![YouTube](https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
 ![ManiFast#8021](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Discord) Discord - ManiFast#8021
 ![Spotify](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Spotify) Spotify - ManiFast
