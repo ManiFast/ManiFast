@@ -5,7 +5,7 @@
 
 >About me
 
-Im Stas, 15 y.o, Im interested in software and in my free time I play games 🎮 or make bit 🎵.
+Im 15, Im interested in software and in my free time I play games 🎮 or make bit 🎵.
 At this moment I have portfolio with my skills:
 + I learned web development - (HTML, CSS, SCSS, Bootstrap, JQuery).
 + Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C++&color=0D1117&logo=C%2b%2b), ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript) and ![Python](https://img.shields.io/static/v1?label=&message=Python&color=0D1117&logo=Python).
@@ -26,8 +26,10 @@ Most importantly - I l❤️ve what I do and I get high when everything works ou
 ![Spotify](https://img.shields.io/static/v1?label=Spotify&message=ManiFast&color=1ED760?style=for-the-badge&logo=Spotify&style=flat-square)
 -->
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram)](https://t.me/Mani_Fast)
-[![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/manifast/)
-[![YouTube](https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
-![ManiFast#8021](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Discord) Discord - ManiFast#8021
-![Spotify](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Spotify) Spotify - ManiFast
+[![Telegram](https://img.shields.io/badge/-Telegram-004DFF?style=for-the-badge&logo=Telegram)](https://t.me/Mani_Fast)
+[![Steam](https://img.shields.io/badge/-Steam-004DFF?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/manifast/)
+[![YouTube](https://img.shields.io/badge/-YouTube-004DFF?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
+![ManiFast#8021](https://img.shields.io/badge/- -004DFF?style=for-the-badge&logo=Discord) Discord - ManiFast#8021
+![Spotify](https://img.shields.io/badge/- -004DFF?style=for-the-badge&logo=Spotify) Spotify - ManiFast
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
