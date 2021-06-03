@@ -2,7 +2,10 @@
 [![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/header.png)](https://www.youtube.com/watch?v=uykVCZpi7SU&ab_channel=JohnDodd)
 
 # Hi!
+
+***
 <!-- <space><space> -->
+
 >_About me_
 
 #### Im 15, Im interested in software and in my free time I play games 🎮 or make bit 🎵.
@@ -17,6 +20,7 @@
 #### Most importantly - I l❤️ve what I do and I get high when everything works out ✔️.
 
 ***
+
 >_Integration_
 <!--
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=00B1FF?style=for-the-badge&logo=Telegram&color=00B1FF)](https://t.me/Mani_Fast)
