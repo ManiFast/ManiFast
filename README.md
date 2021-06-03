@@ -18,11 +18,8 @@
 #### Now I learning C++. In free time I make different programs on different languages.
 #### My statement is - «While they were playing games, lounging and walking, I was developing, moving forward and made progress.».
 #### Most importantly - I l❤️ve what I do and I get high when everything works out ✔️.
- 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stas-inside&show_icons=true&theme=tokyonight&bg_color=DEG,0082FF,00B1FF,00D2FF) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stas-inside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-#  
 
+#  
 >_Integration_
 <!--
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=00B1FF?style=for-the-badge&logo=Telegram&color=00B1FF)](https://t.me/Mani_Fast)
@@ -40,3 +37,6 @@
 ![Discord](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Discord) - ManiFast#8021
 ![Spotify](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Spotify) - ManiFast
  
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stas-inside&show_icons=true&theme=tokyonight&bg_color=DEG,0082FF,00B1FF,00D2FF) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stas-inside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#  
