@@ -31,7 +31,7 @@ Most importantly - I l❤️ve what I do and I get high when everything works ou
 [![YouTube](https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
 [![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram)](https://www.instagram.com/mani_fastt/)
 ![Battle](https://img.shields.io/badge/-Battle.net-0D1117?style=for-the-badge&logo=Battle.net) - ManiFast#2325
-![Discord](https://img.shields.io/badge/-ManiFast#8021-0D1117?style=for-the-badge&logo=Discord) - ManiFast#8021
+![Discord](https://img.shields.io/badge/-ManiFast8021-0D1117?style=for-the-badge&logo=Discord) - ManiFast#8021
 ![Spotify](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Spotify) - ManiFast
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stas-inside&show_icons=true&theme=tokyonight&bg_color=DEG,0082FF,00B1FF,00D2FF) -->
