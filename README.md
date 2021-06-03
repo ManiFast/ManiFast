@@ -41,6 +41,3 @@
 ![Battle](https://img.shields.io/badge/-Battle.net-0D1117?style=for-the-badge&logo=Battle.net) - ManiFast#2325
 ![Discord](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Discord) - ManiFast#8021
 ![Spotify](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Spotify) - ManiFast
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stas-inside&show_icons=true&theme=tokyonight&bg_color=DEG,0082FF,00B1FF,00D2FF) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stas-inside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
