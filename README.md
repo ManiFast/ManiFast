@@ -3,7 +3,7 @@
 
 # Hi!
 
-***
+<!-- *** -->
 
 >_About me_
 
@@ -18,7 +18,7 @@
 #### My statement is - «While they were playing games, lounging and walking, I was developing, moving forward and made progress.».
 #### Most importantly - I l❤️ve what I do and I get high when everything works out ✔️.
 
-***
+#  
 
 >_Integration_
 <!--
