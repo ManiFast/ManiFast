@@ -4,7 +4,6 @@
 # Hi!
 
 ***
-<!-- <space><space> -->
 
 >_About me_
 
