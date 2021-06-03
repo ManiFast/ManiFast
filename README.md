@@ -30,6 +30,7 @@
 -->
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram)](https://t.me/Mani_Fast)
+|
 [![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/manifast/)
 [![YouTube](https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
 [![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram)](https://www.instagram.com/mani_fastt/)
