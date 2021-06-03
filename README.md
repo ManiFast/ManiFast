@@ -6,15 +6,15 @@
 >About me
 
 ### Im 15, Im interested in software and in my free time I play games 🎮 or make bit 🎵.
-At this moment I have portfolio with my skills:
-+ I learned web development - (HTML, CSS, SCSS, Bootstrap, JQuery).
-+ Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C++&color=0D1117&logo=C%2b%2b), ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript) and ![Python](https://img.shields.io/static/v1?label=&message=Python&color=0D1117&logo=Python).
-+ I know Git and ahk.
-+ I can working with VS Studio, VS Code +plugins, Brackets, Photoshop and FL Studio.
+### At this moment I have portfolio with my skills:
++ ### I learned web development - (HTML, CSS, SCSS, Bootstrap, JQuery).
++ ### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C++&color=0D1117&logo=C%2b%2b), ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript) ### and ![Python](https://img.shields.io/static/v1?label=&message=Python&color=0D1117&logo=Python).
++ ### I know Git and ahk.
++ ### I can working with VS Studio, VS Code +plugins, Brackets, Photoshop and FL Studio.
 
-Now I learning C++. In free time I make different programs on different languages.
-My statement is - «While they were playing games, lounging and walking, I was developing, moving forward and made progress.».
-Most importantly - I l❤️ve what I do and I get high when everything works out ✔️.
+### Now I learning C++. In free time I make different programs on different languages.
+### My statement is - «While they were playing games, lounging and walking, I was developing, moving forward and made progress.».
+### Most importantly - I l❤️ve what I do and I get high when everything works out ✔️.
 
 ***
 >Integration
