@@ -63,7 +63,7 @@ Sensitive : DPI:750 | CSGO:1.70
  
 💎 RAM : (Ballistix 4gb + Kingston 2gb )
   
-  
+  -
  
 💎 Mouse : Bloody A4Tech V8 | Logitech G100s
  
