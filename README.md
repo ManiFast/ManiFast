@@ -37,7 +37,7 @@
 ![Discord](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Discord) - ManiFast#8021
 ![Spotify](https://img.shields.io/badge/- -0D1117?style=for-the-badge&logo=Spotify) - ManiFast
  
- >24.07.2019
+ 24.07.2019
 💻 My 2-th pc :
 Sensitive : DPI:750 | CSGO:1.70
 💎 Monitors : 1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)
