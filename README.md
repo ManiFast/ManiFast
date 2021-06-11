@@ -42,7 +42,7 @@
    
  24.07.2019
   
-💻 My 2-th pc :
+>💻 My 2-th pc :
   
 Sensitive : DPI:750 | CSGO:1.70
  
