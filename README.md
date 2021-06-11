@@ -46,7 +46,7 @@
   
 Sensitive : DPI:750 | CSGO:1.70
  
-💎 [####]Monitors :[/####] 1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)
+💎 [h4]Monitors :[/h4] 1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)
  
 💎 Video cards ▓✇✇✇▓ : 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 1060 6GB)
  
