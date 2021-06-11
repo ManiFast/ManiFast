@@ -48,41 +48,41 @@ Sensitive : DPI:750 | CSGO:1.70
  
 <strong> 💎 Monitors : </strong> 1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)
  
-💎 Video cards ▓✇✇✇▓ : 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 1060 6GB)
+<strong> 💎 Video cards ▓✇✇✇▓ : </strong> 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 1060 6GB)
  
-🔥 Processor :1.(Intel® Core i3-9100F 9th Gen 4.2GHz) | 2.(Intel® Core™ i7-3770 @ 3.40ghz) | (Intel® Pentium(R) 3.50)
+<strong> 🔥 Processor : </strong> 1.(Intel® Core i3-9100F 9th Gen 4.2GHz) | 2.(Intel® Core™ i7-3770 @ 3.40ghz) | (Intel® Pentium(R) 3.50)
  
-💎 SSD`s : 111gb, 115gb
+<strong> 💎 SSD`s : </strong> 111gb, 115gb
  
-💎 HardDrives : 1.Western Digital (Blue) 1TB | 2.Western Digital (Blue) 250gb
+<strong> 💎 HardDrives : </strong> 1.Western Digital (Blue) 1TB | 2.Western Digital (Blue) 250gb
  
-♫ Bass speakers <3 : Yamaha x2 Microlab TMN 1
+<strong> ♫ Bass speakers <3 : </strong> Yamaha x2 Microlab TMN 1
  
-▆ Case : Thermaltake Versa J24 Tempered Glass RGB Edition
+<strong> ▆ Case : </strong> Thermaltake Versa J24 Tempered Glass RGB Edition
  
-❄ Coolers : 1.(Crosshair RGB x3) 2.(Thermaltake RGB x3) 3.(Zheng yi coolers x2)
+<strong> ❄ Coolers : </strong> 1.(Crosshair RGB x3) 2.(Thermaltake RGB x3) 3.(Zheng yi coolers x2)
  
-❄ Water pump: ALSEYE DIY 240 Radiator Liquid Cooler PC .-.
+<strong> ❄ Water pump: </strong> ALSEYE DIY 240 Radiator Liquid Cooler PC .-.
  
-💎 RAM : (Ballistix 4gb + Kingston 2gb )
+<strong> 💎 RAM : </strong> (Ballistix 4gb + Kingston 2gb )
   
   -
  
-💎 Mouse : Bloody A4Tech V8 | Logitech G100s
+<strong> 💎 Mouse : </strong> Bloody A4Tech V8 | Logitech G100s
  
-💎 Keyboard : Dell KB-813
+<strong> 💎 Keyboard : </strong> Dell KB-813
  
-💎 Headphones : Sony MDR-XB550AP
+<strong> 💎 Headphones : </strong> Sony MDR-XB550AP
  
-💎 Microphone : Logitech
+<strong> 💎 Microphone : </strong> Logitech
  
-▦ Motherboard : ASUS Z170-E GIGABYTE B365M DS3H
+<strong> ▦ Motherboard : </strong> ASUS Z170-E GIGABYTE B365M DS3H
  
-💎 PSU : EVGA supernova 650 G2
+<strong> 💎 PSU : </strong> EVGA supernova 650 G2
  
-✨ LED : RGB Ribbon 4m
+<strong> ✨ LED : </strong> RGB Ribbon 4m
  
-✅ OS : Windows 10 Pro (2004 / x64)
+<strong> ✅ OS : </strong> Windows 10 Pro (2004 / x64)
  
  
  #  
