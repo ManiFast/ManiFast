@@ -62,8 +62,8 @@ Sensitive : DPI:750 | CSGO:1.70
 ❄ Water pump: ALSEYE DIY 240 Radiator Liquid Cooler PC .-.
  
 💎 RAM : (Ballistix 4gb + Kingston 2gb )
- 
- 
+  
+  
  
 💎 Mouse : Bloody A4Tech V8 | Logitech G100s
  
