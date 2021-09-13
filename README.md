@@ -78,10 +78,6 @@ Sensitive : DPI:750 | CSGO:1.70
  
 <strong> 🔥 Processor : </strong> 1.(Intel® Core i3-9100F 9th Gen 4.2GHz) | 2.(Intel® Core™ i7-3770 @ 3.40ghz) | (Intel® Pentium(R) 3.50)
  
-<strong> 💎 SSD`s : </strong> 111gb, 115gb
- 
-<strong> 💎 HardDrives : </strong> 1.Western Digital (Blue) 1TB | 2.Western Digital (Blue) 250gb
- 
 <strong> ♫ Bass speakers <3 : </strong> Yamaha x2 Microlab TMN 1
  
 <strong> ▆ Case : </strong> Thermaltake Versa J24 Tempered Glass RGB Edition
@@ -91,24 +87,6 @@ Sensitive : DPI:750 | CSGO:1.70
 <strong> ❄ Water pump: </strong> ALSEYE DIY 240 Radiator Liquid Cooler PC .-.
  
 <strong> 💎 RAM : </strong> (Ballistix 4gb + Kingston 2gb )
-  
-  -
- 
-<strong> 💎 Mouse : </strong> Bloody A4Tech V8 | Logitech G100s
- 
-<strong> 💎 Keyboard : </strong> Dell KB-813
- 
-<strong> 💎 Headphones : </strong> Sony MDR-XB550AP
- 
-<strong> 💎 Microphone : </strong> Logitech
- 
-<strong> ▦ Motherboard : </strong> ASUS Z170-E GIGABYTE B365M DS3H
- 
-<strong> 💎 PSU : </strong> EVGA supernova 650 G2
- 
-<strong> ✨ LED : </strong> RGB Ribbon 4m
- 
-<strong> ✅ OS : </strong> Windows 10 Pro (2004 / x64)
  
  
  #  
