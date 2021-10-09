@@ -89,6 +89,8 @@ Sensitive : DPI:750 | CSGO:1.70
 <strong> 💎 RAM : </strong> (Ballistix 4gb + Kingston 2gb )
  
  
+ at the time of writing 18/07/2020
+ 
  #  
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stas-inside&show_icons=true&theme=tokyonight&bg_color=DEG,0082FF,00B1FF,00D2FF) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stas-inside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
