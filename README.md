@@ -96,4 +96,4 @@ Sensitive : DPI:750 | CSGO:1.70
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stas-inside&show_icons=true&theme=tokyonight&bg_color=DEG,0082FF,00B1FF,00D2FF) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stas-inside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-!()[https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png]
+[![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
