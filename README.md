@@ -33,9 +33,9 @@
 
 #### 16 yo, Im interested in software and in my free time I play games 🎮 or make bit 🎵.
 #### At this moment I have portfolio with my skills:
-+ #### I learned web development - (HTML, CSS, SCSS, Bootstrap, JQuery).
-+ #### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b),  ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
++ #### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b), ![C#](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b),  ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + #### Know Git and ahk.
++ #### I learned web development (fluently).
 + #### Working with VS Studio, VS Code +plugins, Brackets, Photoshop and FL Studio.
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)-->
  
