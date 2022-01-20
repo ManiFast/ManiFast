@@ -43,7 +43,7 @@
 #### Now learning C++ and studying in Foxford. In free time I make different programs on different languages, fond of IT Virology.
 #### My favorite artist is $atori Zoom.
 #### My statement is - *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
-#### I l❤️ve what I do and I get high when everything works out ✔️.
+<!--#### I l❤️ve what I do and I get high when everything works out ✔️.-->
 `>_`
 
 <p align="center">
