@@ -1,6 +1,6 @@
 <!-- 27/04/21 -->
  <!-- https://www.youtube.com/watch?v=uykVCZpi7SU&ab_channel=JohnDodd -->
-[![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/headerMain2.png)](https://www.youtube.com/watch?v=804cYaQqn_A)
+[![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/headerMain3.png)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
 <p align="center"><i><b>Hi !</b></i></p>
 
