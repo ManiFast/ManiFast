@@ -41,7 +41,7 @@
  
  
 #### Now learning C++ and studying in Foxford. In free time I make different programs on different languages fond of IT Virology and logic.
-#### My favorite artist is $atori Zoom.
+#### My favorite performer is $atori Zoom.
 ##### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
 <!--#### I l❤️ve what I do and I get high when everything works out ✔️.-->
 `>_`
