@@ -34,14 +34,14 @@
 
 #### *16 yo talent*, interested in software and in my free time I play games 🎮 or make bit 🎵.
 #### some of skills:
-+ #### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b), ![C#](https://img.shields.io/static/v1?label=&message=C%23&color=0D1117&logo=C),  ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
-+ #### Know Git, AHK and fluentlyl learned web development.
-+ #### Working with Adobe Photoshop and Adobe Premiere Pro.
++ ##### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b), ![C#](https://img.shields.io/static/v1?label=&message=C%23&color=0D1117&logo=C),  ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
++ ##### Know Git, AHK and fluentlyl learned web development.
++ ##### Working with Adobe Photoshop and Adobe Premiere Pro.
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)-->
  
 #### Now learning C++ and studying in Foxford. In free time I make different programs on different languages fond of IT Virology and logic.
 #### My favorite performer is $atori Zoom.
-##### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
+###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
 <!--#### I l❤️ve what I do and I get high when everything works out ✔️.-->
 `>_`
 
