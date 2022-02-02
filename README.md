@@ -33,7 +33,7 @@
 >_About me_
 
 #### *16 yo talent*, interested in software and in my free time I play games 🎮 or make bit 🎵.
-#### At this moment I have portfolio with my skills:
+#### some of skills:
 + #### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b), ![C#](https://img.shields.io/static/v1?label=&message=C%23&color=0D1117&logo=C),  ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + #### Know Git, AHK and fluentlyl earned web development.
 + #### Working with Adobe Photoshop and Adobe Premiere Pro.
