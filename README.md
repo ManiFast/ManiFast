@@ -44,13 +44,13 @@
 ###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
 <!--#### I l❤️ve what I do and I get high when everything works out ✔️.-->
 `>_`
-<!--
+
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&cover_image=true&theme=novatorem" alt="spotify-github-profile">
 </a>
 </p>
--->
+
 
  
 <!--
@@ -64,10 +64,11 @@
 <p align="center">
 </p>
 
+<!--
 ![Battle](https://img.shields.io/badge/-Battle.net-0D1117?style=for-the-badge&logo=Battle.net) - ManiFast#2325
 ![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=Discord) - !ManiFast#6685
 ![Spotify](https://img.shields.io/badge/-Spotify-0D1117?style=for-the-badge&logo=Spotify) - ManiFa$t
- 
+ -->
   
  24.07.2019
   
