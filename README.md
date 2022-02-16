@@ -85,11 +85,11 @@ Sensitive : DPI:750 | CSGO:1.70
 <strong> ♫ Bass speakers <3 : </strong> Yamaha x2 Microlab TMN 1
  
 <strong> ▆ Case : </strong> Thermaltake Versa J24 Tempered Glass RGB Edition
- 
+ <!--
 <strong> ❄ Coolers : </strong> 1.(Crosshair RGB x3) 2.(Thermaltake RGB x3) 3.(Zheng yi coolers x2)
  
 <strong> ❄ Water pump: </strong> ALSEYE DIY 240 Radiator Liquid Cooler PC .-.
- 
+ -->
 <strong> 💎 RAM : </strong> (Ballistix 4gb + Kingston 2gb )
  
  
