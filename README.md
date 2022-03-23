@@ -32,7 +32,7 @@
 <!-- *** -->
 >_About me_
 
-#### *16 yo talent*, interested in software and in my free time I play games 🎮 or make bit 🎵.
+#### *17 yo talent*, interested in software and in my free time I play games 🎮 or make bit 🎵.
 #### some of skills:
 + ##### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b), ![C#](https://img.shields.io/static/v1?label=&message=C%23&color=0D1117&logo=C),  ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Know Linux, bash, AHK and fluentlyl learned web.
