@@ -73,33 +73,36 @@
 ![Spotify](https://img.shields.io/badge/-Spotify-0D1117?style=for-the-badge&logo=Spotify) - ManiFa$t
  -->
   
- 24.07.2019
+ <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
   
->💻 My 2-th pc :   <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="50"/>
-  
-Sensitive : DPI:750 | CSGO:1.70
+ <details>
+<summary>💻 My 2-th pc: (click)   <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="50"/></summary>
+<p>
  
-<strong> 💎 Monitors : </strong> 1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)
+<strong> 💎 Monitors: </strong> 1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)
  
-<strong> 💎 Video cards ▓✇✇✇▓ : </strong> 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 1060 6GB)
+<strong> 💎 Video cards: </strong> 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 1060 6GB)
  
 <strong> 🔥 Processor : </strong> 1.(Intel® Core i3-9100F 9th Gen 4.2GHz) | 2.(Intel® Core™ i7-3770 @ 3.40ghz) | (Intel® Pentium(R) 3.50)
  
-<strong> ♫ Bass speakers <3 : </strong> Yamaha x2 Microlab TMN 1
+<strong> ♫ Bass speakers <3: </strong> Yamaha x2 Microlab TMN 1
+
+<strong> 💎 RAM: </strong> Crucial ballistix 8gb
  
-<strong> ▆ Case : </strong> Thermaltake Versa J24 Tempered Glass RGB Edition
- <!--
-<strong> ❄ Coolers : </strong> 1.(Crosshair RGB x3) 2.(Thermaltake RGB x3) 3.(Zheng yi coolers x2)
+<strong> ▆ Case: </strong> Thermaltake Versa J24 Tempered Glass RGB Edition
  
-<strong> ❄ Water pump: </strong> ALSEYE DIY 240 Radiator Liquid Cooler PC .-.
- -->
-<strong> 💎 RAM : </strong> (Ballistix 4gb + Kingston 2gb )
- 
+ Sensitive : DPI:750 | CSGO:1.70
  
  at the time of writing 18/07/2020
+</p>
+</details>
  
  #  
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stas-inside&show_icons=true&theme=tokyonight&bg_color=DEG,0082FF,00B1FF,00D2FF) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stas-inside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://media.giphy.com/media/Im5ViAG58iLLYPW2jl/giphy.gif" width="170"/>
+<img src="https://media1.giphy.com/media/11e0gEWxYoSYTK/giphy.gif?cid=790b761175cdabc24c2457bcaa06488de58b3b8456a7dd05&rid=giphy.gif&ct=g" width="225"/>
+<img src="https://media3.giphy.com/media/xndHaRIcvge5y/giphy.gif?cid=790b7611922f015e7a2b7f20869ff7a6e9c845abd6dcffd4&rid=giphy.gif&ct=g" width="250"/>
+
 
 <!--[![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)-->
