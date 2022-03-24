@@ -100,7 +100,7 @@
  #  
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stas-inside&show_icons=true&theme=tokyonight&bg_color=DEG,0082FF,00B1FF,00D2FF) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stas-inside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://media3.giphy.com/media/xndHaRIcvge5y/giphy.gif?cid=790b7611922f015e7a2b7f20869ff7a6e9c845abd6dcffd4&rid=giphy.gif&ct=g" width="200"/>
+<img src="https://media3.giphy.com/media/xndHaRIcvge5y/giphy.gif?cid=790b7611922f015e7a2b7f20869ff7a6e9c845abd6dcffd4&rid=giphy.gif&ct=g" width="230"/>
 <img src="https://media1.giphy.com/media/11e0gEWxYoSYTK/giphy.gif?cid=790b761175cdabc24c2457bcaa06488de58b3b8456a7dd05&rid=giphy.gif&ct=g" width="220"/>
 <img src="https://media.giphy.com/media/Im5ViAG58iLLYPW2jl/giphy.gif" width="150"/>
 
