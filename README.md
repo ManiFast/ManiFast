@@ -2,7 +2,7 @@
  <!-- https://www.youtube.com/watch?v=uykVCZpi7SU&ab_channel=JohnDodd -->
 [![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/headerMain3.png)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
-<p align="center"><i><b>Hi !</b></i></p>
+<p align="center"><i><b>Hi !     </b><img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="25"/></i></p>
 
 #  
 <!--
@@ -32,13 +32,15 @@
 <!-- *** -->
 >_About me_
 
-#### *17 yo talent*, interested in software and in my free time I play games 🎮 or make bit 🎵.
+#### *17 yo talent*, interested in software <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="30"/> and in my free time I play games 🎮 or make bit 🎵.
 #### some of skills:
 + ##### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b), ![C#](https://img.shields.io/static/v1?label=&message=C%23&color=0D1117&logo=C),  ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Know Linux, bash, AHK and fluentlyl learned web.
 + ##### Working with Adobe Photoshop and Adobe Premiere Pro.
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)-->
  
+ 
+ 
 #### Now learning C++ and studying in Foxford. In free time I make different programs on different languages fond of IT Virology and logic.
 #### My favorite performer is $atori Zoom.
 ###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
@@ -52,6 +54,7 @@
 </p>
 
 
+ 
  
 <!--
 [![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram)](https://t.me/Mani_Fast)
@@ -72,7 +75,7 @@
   
  24.07.2019
   
->💻 My 2-th pc :
+>💻 My 2-th pc :   <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="50"/>
   
 Sensitive : DPI:750 | CSGO:1.70
  
