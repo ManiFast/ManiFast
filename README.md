@@ -102,5 +102,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stas-inside&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://media3.giphy.com/media/xndHaRIcvge5y/giphy.gif?cid=790b7611922f015e7a2b7f20869ff7a6e9c845abd6dcffd4&rid=giphy.gif&ct=g" width="210"/><img src="https://media.giphy.com/media/Im5ViAG58iLLYPW2jl/giphy.gif" width="275"/>
 
+![](https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg)
 
 <!--[![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)-->
