@@ -83,9 +83,9 @@
  
 <strong> 💎 Video cards: </strong> 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 1060 6GB)
  
-<strong> 🔥 Processor : </strong> 1.(Intel® Core i3-9100F 9th Gen 4.2GHz) | 2.(Intel® Core™ i7-3770 @ 3.40ghz) | (Intel® Pentium(R) 3.50)
+<strong> 🔥 Processor : </strong> Intel® Core i3 9th
  
-<strong> ♫ Bass speakers <3: </strong> Yamaha x2 Microlab TMN 1
+<strong> ♫ Bass speakers <3: </strong> Yamaha x2, Microlab TMN 1
 
 <strong> 💎 RAM: </strong> Crucial ballistix 8gb
  
