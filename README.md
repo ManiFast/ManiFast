@@ -33,7 +33,7 @@
 >_About me_
 
 #### *17 yo talent*, interested in software <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="30"/> and in my free time I play games 🎮 or make bit 🎵.
-#### some of skills:
+#### Some of skills:
 + ##### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b), ![C#](https://img.shields.io/static/v1?label=&message=C%23&color=0D1117&logo=C),  ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Know Linux, bash, AHK and fluentlyl learned web.
 + ##### Working with A.Audition, A.Photoshop and A.Premiere Pro.
@@ -41,8 +41,7 @@
  
  
  
-#### Now learning C++ and studying in Foxford. In free time I make different programs on different languages fond of IT Virology and logic.
-#### My favorite performer is $atori Zoom.
+#### Now learning C++ and studying in Foxford. In free time I make different programs on different languages fond of IT Virology and logic.</br> My favorite performer is $atori Zoom.
 ###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
 <!--#### I l❤️ve what I do and I get high when everything works out ✔️.-->
 `>_`
