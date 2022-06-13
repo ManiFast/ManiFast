@@ -64,7 +64,7 @@
 [![Deviantart](https://img.shields.io/badge/-DeviantArt-0D1117?style=for-the-badge&logo=DeviantArt)](https://www.deviantart.com/manifaststas)
 -->
  
-<p align="center">
+<p align="center">🇷🇺❤️🇷🇸❤️🇧🇾❤️🇨🇳❤️🇮🇳❤️🇺🇿
 </p>
 
 <!--
@@ -72,6 +72,7 @@
 ![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=Discord) - !ManiFast#6685
 ![Spotify](https://img.shields.io/badge/-Spotify-0D1117?style=for-the-badge&logo=Spotify) - ManiFa$t
  -->
+  
   
  <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
   
