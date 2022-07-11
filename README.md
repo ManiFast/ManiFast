@@ -2,7 +2,7 @@
  <!-- https://www.youtube.com/watch?v=uykVCZpi7SU&ab_channel=JohnDodd -->
 [![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/headerMain3.png)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
-<p align="center"><i><b>Hi !     </b><img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="25"/></i></p>
+<p align="center"><i><img src="https://cdn.discordapp.com/emojis/974278985632600074.gif?size=96&quality=lossless" width="25"/><b>     Hi !     </b><img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="25"/></i></p>
 
 #  
 <!--
