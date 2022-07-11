@@ -30,11 +30,11 @@
 
   
 <!-- *** -->
->_About me_
+>_About me_   <img src="https://cdn.discordapp.com/emojis/952168776328163338.gif?size=96&quality=lossless" width="15">
 
-#### *17 yo talent*, interested in software <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="30"/> and in my free time I play games 🎮 or make bit 🎵.
+#### *17 yo talent*, interested in software <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="30"/> and in my free time I play games  <img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20"> or make bit   <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="25">.
 #### Some of skills:
-+ ##### Ability to work with ![C++](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=0D1117&logo=C%2b%2b), ![C#](https://img.shields.io/static/v1?label=&message=C%23&color=0D1117&logo=C),  ![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=0D1117&logo=JavaScript)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
++ ##### Ability to work with   <img src="https://cdn.discordapp.com/emojis/763438000687415306.webp?size=96&quality=lossless" width="25">,   <img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="40">,   <img src="https://cdn.discordapp.com/emojis/903036002334048317.webp?size=96&quality=lossless" width="25">  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Know Linux, bash, AHK and fluently learned web.
 + ##### Working with A.Audition, A.Photoshop and A.Premiere Pro.
 + ##### Favourite Linux distribution is (Ubuntu, Arch and of course Kali :D)
@@ -44,7 +44,7 @@
  
 #### Now learning C++ and studying in Foxford. In free time I make different programs on different languages fond of IT Virology and logic.</br> My favorite performer is $atori Zoom.
 ###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
-<!--#### I l❤️ve what I do and I get high when everything works out ✔️.-->
+<!--#### I l<img src="https://cdn.discordapp.com/emojis/974236147943358464.gif?size=96&quality=lossless" width="25">ve what I do and I get high when everything works out ✔️.-->
 `>_`
 
 <p align="center">
@@ -64,7 +64,7 @@
 [![Deviantart](https://img.shields.io/badge/-DeviantArt-0D1117?style=for-the-badge&logo=DeviantArt)](https://www.deviantart.com/manifaststas)
 -->
  
-<p align="center">🇷🇺❤️🇷🇸❤️🇧🇾❤️🇨🇳❤️🇮🇳❤️🇺🇿
+<p align="center">🇷🇺<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇷🇸<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇧🇾<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇨🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇮🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇺🇿
 </p>
 
 <!--
