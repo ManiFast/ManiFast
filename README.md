@@ -74,7 +74,7 @@
  -->
   
   
- <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
+ <!-- <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/> -->
   
  <details>
 <summary>💻 My 2-th pc: (click)   <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="50"/></summary>
