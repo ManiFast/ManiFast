@@ -2,7 +2,7 @@
  <!-- https://www.youtube.com/watch?v=uykVCZpi7SU&ab_channel=JohnDodd -->
 [![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/headerMain3.png)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
-<p align="center"><i><img src="https://cdn.discordapp.com/emojis/974278985632600074.gif?size=96&quality=lossless" width="25"/><b>     Hi !     </b><img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="25"/></i></p>
+<p align="center"><i><a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img src="https://cdn.discordapp.com/emojis/974278985632600074.gif?size=96&quality=lossless" width="25"/></a><b>     Hi !     </b><a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="25"/></a></i></p>
 
 #  
 <!--
@@ -104,6 +104,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiFast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://media3.giphy.com/media/xndHaRIcvge5y/giphy.gif?cid=790b7611922f015e7a2b7f20869ff7a6e9c845abd6dcffd4&rid=giphy.gif&ct=g" width="210"/><img src="https://media.giphy.com/media/Im5ViAG58iLLYPW2jl/giphy.gif" width="275"/>
 
-![](https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg)
+<a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q">![](https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg)</a>
 
 <!--[![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)-->
