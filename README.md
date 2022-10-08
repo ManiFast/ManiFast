@@ -37,7 +37,7 @@
 #### Some of skills:
 + ##### Ability to work with   <img src="https://cdn.discordapp.com/emojis/763438000687415306.webp?size=96&quality=lossless" width="25">,   <img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="40">,   <img src="https://cdn.discordapp.com/emojis/903036002334048317.webp?size=96&quality=lossless" width="25">  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Know Linux, bash, AHK and fluently learned web.
-+ ##### Working with A.Audition, A.Photoshop and A.Premiere Pro.
++ ##### Editing with A.Audition, A.Photoshop and A.Premiere Pro.
 + ##### Favourite Linux distribution is (Void   <img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20">, Arch   <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20">, Debian   <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18"> and of course Kali <img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> :D )
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)-->
  
