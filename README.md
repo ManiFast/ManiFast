@@ -108,4 +108,4 @@
 
 <!--[![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strryke&label=Profile%20views&color=0e75b6&style=flat" alt="strryke" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manifast&label=Profile%20views&color=0e75b6&style=flat" alt="strryke" /> </p>
