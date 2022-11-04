@@ -8,7 +8,7 @@
 <!--
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=00B1FF?style=for-the-badge&logo=Telegram&color=00B1FF)](https://t.me/Mani_Fast)
 [![Steam](https://img.shields.io/static/v1?label=&message=Steam&color=000000?style=for-the-badge&logo=Steam&style=flat-square)](steamcommunity.com/id/manifast/)
-[![YouTube](https://img.shields.io/static/v1?label=&message=YouTube&color=FF1515?style=for-the-badge&logo=YouTube&style=flat-square)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
+[![YouTube](https://img.shields.io/static/v1?label=&message=YouTube&color=FF1515?style=for-the-badge&logo=YouTube&style=flat-square)](https://www.youtube.com/@mani_Fast)
 ![Discord#8021](https://img.shields.io/static/v1?label=Discord&message=ManiFast#8021&color=7289D9?style=for-the-badge&logo=Discord&style=flat-square)
 ![Spotify](https://img.shields.io/static/v1?label=Spotify&message=ManiFast&color=1ED760?style=for-the-badge&logo=Spotify&style=flat-square)
 -->
