@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" height="35" width="35" />      </a>
+<a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" height="35" width="35" />      </a>
 <a href="https://www.instagram.com/mani_fastt/" target="blank"><img align="center" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram.png" alt="royryando" height="35" width="35" />      </a>
 <a href="https://steamcommunity.com/id/manifast/" target="blank"><img align="center" src="https://camo.githubusercontent.com/2e51cfa2846afbace22819d8c7dd9afad50d0a414ad1d7d30e811952706f548d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737465616d2e737667" alt="ManiFast" height="35" width="35" />   </a>
 <a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/189595654-a3afee29-faf1-42ed-9553-76ce8252556b.png" alt="ManiFast" height="50" width="65" />   </a>
