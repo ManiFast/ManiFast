@@ -33,7 +33,7 @@
 <!-- *** -->
 >_About me_   <img src="https://cdn.discordapp.com/emojis/952168776328163338.gif?size=96&quality=lossless" width="15">
 
-#### *17 yo talent*, interested in software <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="30"/> and in my free time I play games  <img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20"> or make bit   <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="25">.
+#### *17 yo talent*, interested in software <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="30"/> and in my free time I play games  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">--> or make bit   <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="25">.
 #### Some of skills:
 + ##### Ability to work with   <img src="https://cdn.discordapp.com/emojis/763438000687415306.webp?size=96&quality=lossless" width="25">,   <img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="40">,   <img src="https://cdn.discordapp.com/emojis/903036002334048317.webp?size=96&quality=lossless" width="25">  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Know Linux, bash, AHK and fluently learned web.
