@@ -99,10 +99,8 @@
 </p>
 </details>
  
- #  
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stas-inside&show_icons=true&theme=tokyonight&bg_color=DEG,0082FF,00B1FF,00D2FF) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manifast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://media3.giphy.com/media/xndHaRIcvge5y/giphy.gif?cid=790b7611922f015e7a2b7f20869ff7a6e9c845abd6dcffd4&rid=giphy.gif&ct=g" width="210"/><img src="https://media.giphy.com/media/Im5ViAG58iLLYPW2jl/giphy.gif" width="275"/>
+ #
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q">![](https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg)</a>
 
