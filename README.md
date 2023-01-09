@@ -33,12 +33,12 @@
 <!-- *** -->
 >_About me_   <img src="https://cdn.discordapp.com/emojis/952168776328163338.gif?size=96&quality=lossless" width="15">
 
-#### *17 yo talent*, interested in software (especially in security 🟥Team) <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="30"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">--> or make bit   <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="25">.
+#### *17 yo talent*, interested in software (especially in security 🟥Team) <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="30"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->   <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="25">.
 #### Some of skills:
 + ##### Ability to work with   <img src="https://cdn.discordapp.com/emojis/763438000687415306.webp?size=96&quality=lossless" width="25">,   <img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="40">,   <img src="https://cdn.discordapp.com/emojis/903036002334048317.webp?size=96&quality=lossless" width="25">  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Working on Linux, bash, AHK and fluently learned web.
 + ##### Editing with Au., Ps. and Pr.
-+ ##### Favourite Linux distribution is (Void   <img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20">, Arch   <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20">, Debian   <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18"> and of course Kali <img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> :D )
++ ##### Favourite Linux distribution is (<img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20">   Void, <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20">   Arch, <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18">   Debian and of course  <img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> Kali :D )
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)-->
  
  
@@ -78,7 +78,7 @@
  <!-- <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/> -->
   
  <details>
-<summary>💻 My 2-th pc: (click)   <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="50"/></summary>
+<summary>💻 My setup: (click)   <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="50"/></summary>
 <p>
  
 <strong> 💎 Monitors: </strong> 1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)
