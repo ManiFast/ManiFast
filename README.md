@@ -4,8 +4,7 @@
 
 <p align="center"><i><a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img src="https://cdn.discordapp.com/emojis/974278985632600074.gif?size=96&quality=lossless" width="25"/></a><b>     Hi !     </b><a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="25"/></a></i></p>
 
-#  
-<!--
+<!-- old style
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=00B1FF?style=for-the-badge&logo=Telegram&color=00B1FF)](https://t.me/Mani_Fast)
 [![Steam](https://img.shields.io/static/v1?label=&message=Steam&color=000000?style=for-the-badge&logo=Steam&style=flat-square)](steamcommunity.com/id/manifast/)
 [![YouTube](https://img.shields.io/static/v1?label=&message=YouTube&color=FF1515?style=for-the-badge&logo=YouTube&style=flat-square)](https://www.youtube.com/@mani_Fast)
@@ -13,8 +12,11 @@
 ![Spotify](https://img.shields.io/static/v1?label=Spotify&message=ManiFast&color=1ED760?style=for-the-badge&logo=Spotify&style=flat-square)
 -->
 <p align="center">
-<i><b>Profiles</b></i>
+<!-- <i><b>Profiles</b></i>-->
 </p>
+
+
+#  
 
 <p align="center">
 <a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" height="35" width="35" />      </a>
@@ -38,7 +40,8 @@
 + ##### Ability to work with   <img src="https://cdn.discordapp.com/emojis/763438000687415306.webp?size=96&quality=lossless" width="25">,   <img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="40">,   <img src="https://cdn.discordapp.com/emojis/903036002334048317.webp?size=96&quality=lossless" width="25">  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Working on Linux, bash, AHK and fluently learned web.
 + ##### Editing with Au., Ps. and Pr.
-+ ##### Favourite Linux distribution is (<img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20">   Void, <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20">   Arch, <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18">   Debian and of course  <img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> Kali :D )
+<!--+ ##### Favourite Linux distribution is (<img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20">   Void, <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20">   Arch, <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18">   Debian and of course  <img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> Kali :D )-->
++ ##### Favourite Linux distribution is ( <img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20">,  <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20">,  <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18">  and of course<img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> :D)
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)-->
  
  
@@ -78,7 +81,7 @@
  <!-- <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/> -->
   
  <details>
-<summary>💻 My setup: (click)   <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="50"/></summary>
+<summary>💻 My setup: (click)   <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="25"/></summary>
 <p>
  
 <strong> 💎 Monitors: </strong> 1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)
