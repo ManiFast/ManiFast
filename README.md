@@ -108,6 +108,8 @@
  #
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=buefy&hide_border=true" /></a>
 
+<img src="https://profile-counter.glitch.me/manifast/count.svg" />
+
 <a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q">![](https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg)</a>
 
 <!--[![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)-->
