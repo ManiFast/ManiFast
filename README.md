@@ -41,7 +41,12 @@
 
 #### *17 yo talent*, interested in software (especially in security 🟥Team) <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
 <!--## 🛠 Some of skills:-->
-## 🛠 Tech stack:
+
+
+<!--
+## 🛠 Tech Stack:
+-->
+
 <!-- OLD TEXT AND IMG DEVELOP INFO
 + ##### Ability to work with   <img src="https://cdn.discordapp.com/emojis/763438000687415306.webp?size=96&quality=lossless" width="25">,   <img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="40">,   <img src="https://cdn.discordapp.com/emojis/903036002334048317.webp?size=96&quality=lossless" width="25">  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Working on Linux, bash, AHK and fluently learned web.
@@ -51,12 +56,34 @@
 + ##### Favourite Linux distribution is ( <img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20">,  <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20">,  <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18">  and of course<img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> :D)
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)
 -->
+
+<div align="center">
+ <details open>
+   <summary><b>🛠 Tech Stack</b></summary>
+  
+  <table>
+   <tr>
+    <th aligin="right">Category</th>
+    <th aligin="left">Technologies</th>
+   </tr>
+   <tr>
+    <td align="right">Core</td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,cs,js,py,nodejs" height="35px"/></td>
+   </tr>
+   <tr>
+   <td align="right">Miscellaneous</td>
+   <td><img src="https://skillicons.dev/icons?i=bash,markdown,git,github,powershell,vscode,visualstudio" height="35px"/></td>
+   </tr>
+   <tr>
+     <td align="right">Creative</td>
+     <td><img src="https://skillicons.dev/icons?i=ps,pr,au,flstudio" height="35px"/></td>
+   </tr>
+  </table>
+    
+ </details>
+</div>
  
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs," />
-  </a>
-</p>
+
  
 <!-- OLD "ABOUT ME"
 ####      *Сurrently I'm learning C++ and cybersecurity. Studied at rsgov and Foxford. In my free time, I work on various programs in different languages, I am fond of IT virology and everything related to pentesting, also interested in administration and running-support servers, in addition can read and absorb tones of information about this case. </br></br>     From birth had a PC and mastered Haskell lmao. Pay great attention to the little things, I don’t notice how the morning has already come) and I don't pay any cent for my video or online courses in IT coz "Who seeks will find !". </br></br>     I run a YouTube channel, write small book like directory and try to ~~f*~~ win competitors in my way. Btw I use Linux). I gave my preference to the distribution Kali, Arch and Void (others looks ugly) and the desktop environment such as <a href="https://itsfoss.com/best-xfce-themes/">Xfce</a>, <a href="https://www.reddit.com/r/unixporn/comments/dhbmip/bspwm_this_forest_is_so_beautiful">bspwm</a> or <a href="https://www.reddit.com/r/unixporn/comments/i938qh/openbox/">openbox</a>, check my so sexy <a href="https://github.com/ManiFast/DeskTop/blob/main/image_2022-09-22_20-59-05.png">desktops</a> <3. </br></br>     Global at minimum in csgo. Of corse have experience in hack, in radio tools, arduino, maybe it was passed down from dad as he is a specialist in radio technology and in repairing TVs and PCs. In general, Im genius of thought :D !*</br>     Favourite performers: Satori Zoom, remember (ZAPOMNI), bbno\$, Dxrk ...
