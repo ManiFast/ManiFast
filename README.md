@@ -145,8 +145,10 @@
  #
  
 <div align="center">
- <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight" alt="ManiFast" width="35%" />      </a>
- <a target="blank" href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img align="center" src="https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg" alt="ManiFast" width="60%" />      </a>
+ <!-- check cool src of langs XD -->
+ <a><img align="center" src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl" alt="ManiFast" width="35%" />      </a>
+ 
+ <a target="blank" href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img align="center" src="https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg" alt="ManiFast" width="60%" />      <</a>
 
 <!--GREEN COUNTER 
 <img src="https://profile-counter.glitch.me/manifast/count.svg" />
