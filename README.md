@@ -20,7 +20,7 @@
   <i><b>Profiles</b></i>
 </p>
 
-<p align="center">
+<div align="center">
 <a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" height="32" width="32" />      </a>
 <a href="https://t.me/Mani_Fast" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="ManiFast" height="27" width="27" />      </a>
 <a href="https://www.instagram.com/mani_fastt/" target="blank"><img align="center" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram.png" alt="royryando" height="37" width="37" />      </a>
@@ -33,15 +33,14 @@
 <a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://pngpress.com/wp-content/uploads/2020/03/Deviantart-Logo-Transparent.png" alt="ManiFast" height="35" width="35" /></a>
 -->
  
-</p>
+</div>
 
   
-<!-- *** -->
->_About me_   <img src="https://cdn.discordapp.com/emojis/952168776328163338.gif?size=96&quality=lossless" width="15">
+<!-- > ||||||*** -->
+> 💭  _About me:_   
 
-#### *17 yo talent*, interested in software (especially in security 🟥Team) <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
+#### *17 yo talent*, interested in software (especially in cyber security 🟥Team and software `>_`) <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
 <!--## 🛠 Some of skills:-->
-
 
 <!--
 ## 🛠 Tech Stack:
@@ -56,6 +55,9 @@
 + ##### Favourite Linux distribution is ( <img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20">,  <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20">,  <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18">  and of course<img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> :D)
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)
 -->
+
+</br>
+</br>
 
 <div align="center">
  <details open>
@@ -91,8 +93,8 @@
 <!--###### I l<img src="https://cdn.discordapp.com/emojis/974236147943358464.gif?size=96&quality=lossless" width="25">ve what I do and I get high when everything works out ✔️.
 -->
 
-`>_`
-
+</br>
+</br>
 <p align="center">
  <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="10">
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&redirect=true">
@@ -142,20 +144,28 @@
  
  #
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight" />
+<div align="center">
+ <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight" alt="ManiFast" width="35%" />      </a>
+ <a target="blank" href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img align="center" src="https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg" alt="ManiFast" width="60%" />      </a>
 
 <!--GREEN COUNTER 
 <img src="https://profile-counter.glitch.me/manifast/count.svg" />
 -->
 
-<a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q">![](https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg)</a>
+
 
 <!-- OLD QR CODE 
 [![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
 -->
 
-<p align="center">🇷🇺<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇷🇸<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇧🇾<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇨🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇮🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇺🇿
-</p>
+<div align="center">
+ <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=manifast&label=Profile%20views&color=65CAFF&style=for-the-badge" width="12%" alt="counter" />
+  <img src="https://cdn.discordapp.com/emojis/952168776328163338.gif?size=96&quality=lossless" width="15">
+ </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manifast&label=Profile%20views&color=65CAFF&style=for-the-badge" alt="strryke" /> </p>
-
+ <div align="right">
+  <p>🇷🇺<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇷🇸<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇧🇾<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇨🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇮🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇺🇿
+  </p>
+ </div>
+</div
