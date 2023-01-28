@@ -16,9 +16,9 @@
 
 #  
 
-<p align="center">
-  <i><b>Profiles</b></i>
-</p>
+<div align="center">
+ <h3> <i><b>Profiles:</b></i></h3>
+</div>
 
 <div align="center">
 <a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" height="32" width="32" />      </a>
@@ -37,7 +37,7 @@
 
   
 <!-- > ||||||*** -->
-> 💭  _About me:_   
+>### 💭  <b>_About me:_  </b> 
 
 #### *17 yo talent*, interested in software (especially in cyber security 🟥Team and software `>_`) <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
 <!--## 🛠 Some of skills:-->
