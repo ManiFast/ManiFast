@@ -1,5 +1,7 @@
  <!-- 27/04/21 -->    
  <!-- ↓EASTER↓ -->
+ <p>$\textcolor{cyan}{-----------------------------------------------------------------------------------------------------------}$</p>
+ 
 [![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/headerMain3.png)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
 <p align="center"><i><a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img src="https://cdn.discordapp.com/emojis/974278985632600074.gif?size=96&quality=lossless" width="25"/></a><b>     Hi !     </b><a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="25"/></a></i></p>
@@ -17,7 +19,7 @@
 #  
 
 <div align="center">
- <h3> <i><b>Profiles:</b></i></h3>
+ <h3> $\textcolor{cyan}{Profiles:}$</h3>
 </div>
 
 <div align="center">
@@ -42,6 +44,18 @@
 ><img src="https://cdn.discordapp.com/emojis/711759906151202889.gif?size=48&quality=lossless" width="22"/>  <b>_About me:_  </b>
 
 #### *17 yo talent*, interested in security (especially in cyber security 🟥Team) and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
+
+
+<details open>
+ <summary><h6>More</h6></summary>
+<h6><b>     In my free time, I work on various programs in different languages, I am fond of IT virology and everything related to pentesting, also interested in administration and running-support servers, in addition can read and absorb tones of information about this case. 
+</br></br>     From birth had a PC and mastered Haskell lmao. Pay great attention to the little things, I don’t notice how the morning has already come) and I don't pay any cent for my video or online courses in IT coz "Who seeks will find !".
+</br></br>     I run a YouTube channel, write two small books yet, like directory and try to <strike>f***</strike> win competitors in my way. Btw I use Linux). I gave my preference to the distribution Kali, Arch and Void (others looks ugly) and the desktop environment such as <a href="https://itsfoss.com/best-xfce-themes/">Xfce</a>, <a href="https://www.reddit.com/r/unixporn/comments/dhbmip/bspwm_this_forest_is_so_beautiful">bspwm</a> or <a href="https://www.reddit.com/r/unixporn/comments/i938qh/openbox/">openbox</a>, check my so sexy <a href="https://github.com/ManiFast/DeskTop/blob/main/image_2022-09-22_20-59-05.png">desktops</a> <3.
+</br></br>     Global at minimum in csgo. Of corse have experience in hack, in radio tools, arduino, maybe it was passed down from dad as he is a specialist in radio technology. In general, genius of thought XD*
+</br>     Favourite performers: Satori Zoom, remember (ZAPOMNI), bbno\$, Dxrk ...</b></h6>
+</details>
+
+
 <!--## 🛠 Some of skills:-->
 
 <!--
@@ -72,15 +86,23 @@
    </tr>
    <tr>
     <td align="right">Core</td>
-    <td><img src="https://skillicons.dev/icons?i=cpp,cs,js,py,nodejs" height="35px"/></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" height="35px"/><img src="https://skillicons.dev/icons?i=c,cs,js,py" height="35px"/></td>
    </tr>
    <tr>
    <td align="right">Miscellaneous</td>
-   <td><img src="https://skillicons.dev/icons?i=bash,markdown,git,github,powershell,vscode,visualstudio" height="35px"/></td>
+   <td><img src="https://skillicons.dev/icons?i=bash,markdown,git,arduino,github" height="35px"/></td>
    </tr>
    <tr>
      <td align="right">Creative</td>
      <td><img src="https://skillicons.dev/icons?i=ps,pr,au,flstudio" height="35px"/></td>
+   </tr>
+   <tr>
+    <td align="right">Favourite Editors</td>
+    <td><img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim" height="35px"/></td>
+   </tr>
+   <tr align="right">
+    <td>Distributions <img src="https://skillicons.dev/icons?i=linux"></td>
+    <td></td>
    </tr>
   </table>
     
@@ -89,8 +111,12 @@
  
 
  
-<!-- OLD "ABOUT ME"
-####      *Сurrently I'm learning C++ and cybersecurity. Studied at rsgov and Foxford. In my free time, I work on various programs in different languages, I am fond of IT virology and everything related to pentesting, also interested in administration and running-support servers, in addition can read and absorb tones of information about this case. </br></br>     From birth had a PC and mastered Haskell lmao. Pay great attention to the little things, I don’t notice how the morning has already come) and I don't pay any cent for my video or online courses in IT coz "Who seeks will find !". </br></br>     I run a YouTube channel, write small book like directory and try to ~~f*~~ win competitors in my way. Btw I use Linux). I gave my preference to the distribution Kali, Arch and Void (others looks ugly) and the desktop environment such as <a href="https://itsfoss.com/best-xfce-themes/">Xfce</a>, <a href="https://www.reddit.com/r/unixporn/comments/dhbmip/bspwm_this_forest_is_so_beautiful">bspwm</a> or <a href="https://www.reddit.com/r/unixporn/comments/i938qh/openbox/">openbox</a>, check my so sexy <a href="https://github.com/ManiFast/DeskTop/blob/main/image_2022-09-22_20-59-05.png">desktops</a> <3. </br></br>     Global at minimum in csgo. Of corse have experience in hack, in radio tools, arduino, maybe it was passed down from dad as he is a specialist in radio technology and in repairing TVs and PCs. In general, Im genius of thought :D !*</br>     Favourite performers: Satori Zoom, remember (ZAPOMNI), bbno\$, Dxrk ...
+<!-- OLD "ABOUT ME" -->
+<!-- 
+####      *In my free time, I work on various programs in different languages, I am fond of IT virology and everything related to pentesting, also interested in administration and running-support servers, in addition can read and absorb tones of information about this case. </br></br>     From birth had a PC and mastered Haskell lmao. Pay great attention to the little things, I don’t notice how the morning has already come) and I don't pay any cent for my video or online courses in IT coz "Who seeks will find !". </br></br>     I run a YouTube channel, write two small books yet, like directory and try to ~~f*~~ win competitors in my way. Btw I use Linux). I gave my preference to the distribution Kali, Arch and Void (others looks ugly) and the desktop environment such as <a href="https://itsfoss.com/best-xfce-themes/">Xfce</a>, <a href="https://www.reddit.com/r/unixporn/comments/dhbmip/bspwm_this_forest_is_so_beautiful">bspwm</a> or <a href="https://www.reddit.com/r/unixporn/comments/i938qh/openbox/">openbox</a>, check my so sexy <a href="https://github.com/ManiFast/DeskTop/blob/main/image_2022-09-22_20-59-05.png">desktops</a> <3. </br></br>     Global at minimum in csgo. Of corse have experience in hack, in radio tools, arduino, maybe it was passed down from dad as he is a specialist in radio technology. In general, genius of thought XD*</br>     Favourite performers: Satori Zoom, remember (ZAPOMNI), bbno\$, Dxrk ...
+-->
+
+
 <!--###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.-->
 <!--###### I l<img src="https://cdn.discordapp.com/emojis/974236147943358464.gif?size=96&quality=lossless" width="25">ve what I do and I get high when everything works out ✔️.
 -->
@@ -130,22 +156,24 @@
   
 <!-- PC -->
 <details>
-<summary> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="25"/>  My setup:</summary>
-<h6>
-<p><b>Monitors: </b> <small>1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)</p>
+--------------------------------------------------------------------------------------------------------------------
+<summary> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="25"/> My setup:</summary>
+|<h6>
+<p><b>| Monitors: </b> <small>1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)                                                        </p>
  
-<p><b>CPU: </b> Intel® Core i3 9th</p>
+<p><b>| CPU: </b> Intel® Core i3 9th                                                                                                          </p>
  
-<p><b>GPU: </b> 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 1060 6GB)</p>
+<p><b>| GPU: </b> 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 10606GB)                                       </p>
  
-<p><b>Bass: </b> Yamaha x2, Microlab TMN 1</p>
+<p><b>| Bass: </b> Yamaha x2, Microlab TMN 1                                                                                                 </p>
 
-<p><b>RAM: </b> Crucial ballistix 8gb</p>
+<p><b>| RAM: </b> Crucial ballistix 8gb                                                                                                     </p>
  
-<p><b>Case: </b> Thermaltake Versa J24 Tempered Glass RGB Edition</p>
+<p><b>| Case: </b> Thermaltake Versa J24 Tempered Glass RGB Edition                                                                          </p>
  
- <i>at the time of writing 18/07/2020</i>
+ <i>| at the time of writing 18/07/2020                                                                                                     </i>
 </h6>
+--------------------------------------------------------------------------------------------------------------------
 </details>
  
  #
