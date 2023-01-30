@@ -146,9 +146,9 @@
  
 <div align="center">
  <!-- check cool src of langs XD -->
- <a><img align="center" src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl" alt="ManiFast" width="35%" />      </a>
+ <a><img align="left" src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl" alt="ManiFast" width="35%" /></a>
  
- <a target="blank" href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img align="center" src="https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg" alt="ManiFast" width="60%" />      <</a>
+ <a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img align="left" src="https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg" alt="ManiFast" width="61%" /></a>
 
 <!--GREEN COUNTER 
 <img src="https://profile-counter.glitch.me/manifast/count.svg" />
@@ -160,13 +160,13 @@
 [![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
 -->
 
-<div align="center">
- <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=manifast&label=Profile%20views&color=65CAFF&style=for-the-badge" width="12%" alt="counter" />
+<div align="left
+ <p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=manifast&label=Profile%20views&color=65CAFF&style=for-the-badge" width="14%" alt="counter" />
   <img src="https://cdn.discordapp.com/emojis/952168776328163338.gif?size=96&quality=lossless" width="15">
  </p>
 
- <div align="right">
+ <div align="center">
   <p>🇷🇺<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇷🇸<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇧🇾<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇨🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇮🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇺🇿
   </p>
  </div>
