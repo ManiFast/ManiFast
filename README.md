@@ -16,7 +16,7 @@
 
 
 <!-- #  -->
- <p>$\textcolor{gray}{\text{------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ lol I did it at random, not a bug but a feature ahGAHAg)}}$</p>
+ <p>$\textcolor{gray}{\text{------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ lol I did it by chance, not a bug but a feature ahHAah)}}$</p>
 
 <div align="center">
  <h3> $\textcolor{cyan}{Profiles:}$</h3>
@@ -41,18 +41,18 @@
   
 <!-- > ||||||*** -->
 <!--💭-->
-><img src="https://cdn.discordapp.com/emojis/711759906151202889.gif?size=48&quality=lossless" width="22"/>  <b>_About me:_  </b>
+><img src="https://cdn.discordapp.com/emojis/888120780649562123.gif?size=48&quality=lossless" width="22"/>  <b>_About me:_  </b>
 
 #### *17 yo talent*, interested in security (especially in cyber security 🟥Team) and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
 
 
 <details close>
  <summary><h6>More</h6></summary>
-<h6><b>     In my free time, I work on various programs in different languages, I am fond of IT virology and everything related to pentesting, also interested in administration and running-support servers, in addition can read and absorb tones of information about this case. 
+<h6><b><img src="https://cdn.discordapp.com/emojis/1055929115997376593.gif?size=48&quality=lossless" width="2%"/>     In my free time, I work on various programs in different languages, I am fond of IT virology and everything related to pentesting, also interested in administration and running-support servers, in addition can read and absorb tones of information about this case. 
 </br></br>     From birth had a PC and mastered Haskell lmao. Pay great attention to the little things, I don’t notice how the morning has already come) and I don't pay any cent for my video or online courses in IT coz "Who seeks will find !".
 </br></br>     I run a YouTube channel, write two small books yet, like directory and try to <strike>f***</strike> win competitors in my way. Btw I use Linux). I gave my preference to the distribution Kali, Arch and Void (others looks ugly) and the desktop environment such as <a href="https://itsfoss.com/best-xfce-themes/">Xfce</a>, <a href="https://www.reddit.com/r/unixporn/comments/dhbmip/bspwm_this_forest_is_so_beautiful">bspwm</a> or <a href="https://www.reddit.com/r/unixporn/comments/i938qh/openbox/">openbox</a>, check my so sexy <a href="https://github.com/ManiFast/DeskTop/blob/main/image_2022-09-22_20-59-05.png">desktops</a> <3.
 </br></br>     Global at minimum in csgo. Of corse have experience in hack, in radio tools, arduino, maybe it was passed down from dad as he is a specialist in radio technology. In general, genius of thought XD*
-</br>     Favourite performers: Satori Zoom, remember (ZAPOMNI), bbno\$, Dxrk ...</b></h6>
+</br>     Favourite performers: Satori Zoom, remember (ZAPOMNI), bbno\$, Dxrk ...<img src="https://cdn.discordapp.com/emojis/1055929115997376593.gif?size=48&quality=lossless" width="2%"/></b></h6>
 </details>
 
 
@@ -153,24 +153,21 @@
   
 <!-- PC -->
 <details>
---------------------------------------------------------------------------------------------------------------------
 <summary> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="25"/> My setup:</summary>
-|<h6>
-<p><b>| Monitors: </b> <small>1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)                                                        </p>
+<h6>
+<p><b>Monitors: </b> <small>1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)      <img src="https://cdn.discordapp.com/emojis/1055929115997376593.gif?size=48&quality=lossless" width="2%"/>                                                  </p>
  
-<p><b>| CPU: </b> Intel® Core i3 9th                                                                                                          </p>
+<p><b>CPU: </b> Intel® Core i3 9th        <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                 <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                            <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                                   <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                  </p>
  
-<p><b>| GPU: </b> 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 10606GB)                                       </p>
+<p><b>GPU: </b> 1.(ASUS GeForce GTX 1060 6GB ROG Strix OC Edition VR) | 2.(EVGA GeForce GTX 10606GB)    <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>           <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>        </p>
  
-<p><b>| Bass: </b> Yamaha x2, Microlab TMN 1                                                                                                 </p>
-
-<p><b>| RAM: </b> Crucial ballistix 8gb                                                                                                     </p>
+<p><b>Bass: </b> Yamaha x2, Microlab TMN 1             <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                         <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                  <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>    </p>
+<p><b>RAM: </b> Crucial ballistix 8gb         <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                              <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                              <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                                </p>
  
-<p><b>| Case: </b> Thermaltake Versa J24 Tempered Glass RGB Edition                                                                          </p>
+<p><b>Case: </b> Thermaltake Versa J24 Tempered Glass RGB Edition          <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                        <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                 <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                       </p>
  
- <i>| at the time of writing 18/07/2020                                                                                                     </i>
+ <i>at the time of writing 18/07/2020            <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                         <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                  </i>
 </h6>
---------------------------------------------------------------------------------------------------------------------
 </details>
  
  #
