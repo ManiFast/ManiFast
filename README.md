@@ -21,11 +21,12 @@
 </div>
 
 <div align="center">
-<a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" height="32" width="32" />      </a>
-<a href="https://t.me/Mani_Fast" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="ManiFast" height="27" width="27" />      </a>
-<a href="https://www.instagram.com/mani_fastt/" target="blank"><img align="center" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram.png" alt="royryando" height="37" width="37" />      </a>
-<a href="https://steamcommunity.com/id/manifast/" target="blank"><img align="center" src="https://camo.githubusercontent.com/2e51cfa2846afbace22819d8c7dd9afad50d0a414ad1d7d30e811952706f548d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737465616d2e737667" alt="ManiFast" height="27" width="27" />   </a>
-<a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/189595654-a3afee29-faf1-42ed-9553-76ce8252556b.png" alt="ManiFast" height="47" width="62" />   </a>
+<a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" width="4%"/></a><i>      </i>
+<a href="https://t.me/Mani_Fast" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="ManiFast" height="27" width="27" /></a><i>      </i>
+<a href="https://www.instagram.com/mani_fastt/" target="blank"><img align="center" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram.png" alt="royryando" height="37" width="37" /></a><i>      </i>
+<a href="https://steamcommunity.com/id/manifast/" target="blank"><img align="center" src="https://camo.githubusercontent.com/2e51cfa2846afbace22819d8c7dd9afad50d0a414ad1d7d30e811952706f548d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737465616d2e737667" alt="ManiFast" height="27" width="27" /></a><i>      </i>
+<a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/189595654-a3afee29-faf1-42ed-9553-76ce8252556b.png" alt="ManiFast" height="47" width="62" /></a><i>      </i>
+<!-- <a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/189595654-a3afee29-faf1-42ed-9553-76ce8252556b.png" alt="ManiFast" height="47" width="62" />   </a> -->
  
 <!-- OLD SPOTIFY PROFILE
 <a href="https://open.spotify.com/user/royryando?si=kElixxsSRBy-LvwevKkzkw" target="blank"><img align="center" src="https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667" alt="royryando" height="35" width="35" /></a>
@@ -37,9 +38,10 @@
 
   
 <!-- > ||||||*** -->
->### 💭  <b>_About me:_  </b> 
+<!--💭-->
+><img src="https://cdn.discordapp.com/emojis/711759906151202889.gif?size=48&quality=lossless" width="25"/>  <b>_About me:_  </b>
 
-#### *17 yo talent*, interested in software (especially in cyber security 🟥Team and software `>_`) <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
+#### *17 yo talent*, interested in security (especially in cyber security 🟥Team) and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
 <!--## 🛠 Some of skills:-->
 
 <!--
