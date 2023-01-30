@@ -46,7 +46,7 @@
 #### *17 yo talent*, interested in security (especially in cyber security 🟥Team) and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
 
 
-<details open>
+<details close>
  <summary><h6>More</h6></summary>
 <h6><b>     In my free time, I work on various programs in different languages, I am fond of IT virology and everything related to pentesting, also interested in administration and running-support servers, in addition can read and absorb tones of information about this case. 
 </br></br>     From birth had a PC and mastered Haskell lmao. Pay great attention to the little things, I don’t notice how the morning has already come) and I don't pay any cent for my video or online courses in IT coz "Who seeks will find !".
@@ -71,9 +71,6 @@
 + ##### Favourite Linux distribution is ( <img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20">,  <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20">,  <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18">  and of course<img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> :D)
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)
 -->
-
-</br>
-</br>
 
 <div align="center">
  <details open>
@@ -101,7 +98,7 @@
     <td><img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim" height="35px"/></td>
    </tr>
    <tr align="right">
-    <td>Distributions <img src="https://skillicons.dev/icons?i=linux"></td>
+    <td>Distributions</td>
     <td></td>
    </tr>
   </table>
