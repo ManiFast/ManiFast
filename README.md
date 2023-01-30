@@ -162,7 +162,7 @@
 
 <div align="left
  <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=manifast&label=Profile%20views&color=65CAFF&style=for-the-badge" width="14%" alt="counter" />
+  <img src="https://komarev.com/ghpvc/?username=manifast&label=Profile%20views&color=65CAFF&style=for-the-badge" width="15%" alt="counter" />
   <img src="https://cdn.discordapp.com/emojis/952168776328163338.gif?size=96&quality=lossless" width="15">
  </p>
 
