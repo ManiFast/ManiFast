@@ -39,7 +39,7 @@
   
 <!-- > ||||||*** -->
 <!--💭-->
-><img src="https://cdn.discordapp.com/emojis/711759906151202889.gif?size=48&quality=lossless" width="25"/>  <b>_About me:_  </b>
+><img src="https://cdn.discordapp.com/emojis/711759906151202889.gif?size=48&quality=lossless" width="22"/>  <b>_About me:_  </b>
 
 #### *17 yo talent*, interested in security (especially in cyber security 🟥Team) and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
 <!--## 🛠 Some of skills:-->
@@ -95,16 +95,20 @@
 <!--###### I l<img src="https://cdn.discordapp.com/emojis/974236147943358464.gif?size=96&quality=lossless" width="25">ve what I do and I get high when everything works out ✔️.
 -->
 
-</br>
-</br>
+<div align="center">
+ <img src="https://cdn.discordapp.com/emojis/732773991135313980.gif?size=48&quality=lossless">
+ <img src="https://cdn.discordapp.com/emojis/732774032226779200.gif?size=48&quality=lossless">
+ <img src="https://cdn.discordapp.com/emojis/732774065152065587.gif?size=48&quality=lossless">
+</div>
+
 <p align="center">
  <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="10">
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&cover_image=true&theme=novatorem" alt="spotify-github-profile">
  
+ <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&cover_image=true&theme=novatorem" alt="spotify-github-profile">
+ </a>
  
-</a>
-<img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="10">
+ <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="10">
 </p>
 
  
