@@ -146,9 +146,9 @@
  
 <div align="center">
  <!-- check cool src of langs XD -->
- <a><img align="left" src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl" alt="ManiFast" width="35%" /></a>
+ <a><img align="left" src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl" alt="ManiFast" width="37%" /></a>
  
- <a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img align="left" src="https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg" alt="ManiFast" width="61%" /></a>
+ <a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img align="left" src="https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg" alt="ManiFast" width="55%" /></a>
 
 <!--GREEN COUNTER 
 <img src="https://profile-counter.glitch.me/manifast/count.svg" />
