@@ -195,7 +195,7 @@
  </p>
 
  <div align="center">
-  <p>🇷🇺<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇷🇸<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇧🇾<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇨🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇮🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇺🇿
+  <p>🇷🇺<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇷🇸<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇧🇬<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇧🇾<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇨🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇮🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇺🇿
   </p>
  </div>
 </div
