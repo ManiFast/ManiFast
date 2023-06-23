@@ -102,7 +102,7 @@
    </tr>
    <tr align="right">
     <td>Distributions</td>
-    <td></td>
+    <td>Kali, Archcraft, Arch</td>
    </tr>
   </table>
     
