@@ -102,7 +102,7 @@
    </tr>
    <tr align="right">
     <td>Distributions</td>
-    <td></td>
+    <td><img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20"> Void,  <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20"> Arch,  <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18"> Debian  <img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> Kali</td>
    </tr>
   </table>
     
