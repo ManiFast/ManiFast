@@ -157,7 +157,7 @@
 <!-- PC -->
 <details>
 <summary> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="25"/> My setup:</summary>
-<h6>
+
 <p><b>Monitors: </b> <small>1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)      <img src="https://cdn.discordapp.com/emojis/1055929115997376593.gif?size=48&quality=lossless" width="2%"/>                                                  </p>
  
 <p><b>CPU: </b> Intel® Core i3 9th        <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                 <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                            <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                                   <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                  </p>
