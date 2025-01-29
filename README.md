@@ -29,8 +29,8 @@
 <a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" width="2%"/></a><i>      </i>
 <a href="https://t.me/Mani_Fast" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Classic-Logo.wine.svg" alt="TG" height="27" width="27" /></a><i>      </i>
 <a href="https://www.instagram.com/mani_fastt/" target="blank"><img align="center" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram.png" alt="royryando" width="3%" /></a><i>      </i>
-<a href="https://steamcommunity.com/id/manifast/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" alt="ManiFast" width="2%" /></a><i>    </i>
-<a href="http://a0791192.xsph.ru/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/224661473-5fa71865-e5d7-4147-acf5-1af2ad76fed3.png" alt="ManiFast" width="2%" /></a>
+<a href="https://steamcommunity.com/id/manifast/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" alt="Steam" width="2%" /></a><i>    </i>
+<a href="https://manifast.github.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/224661473-5fa71865-e5d7-4147-acf5-1af2ad76fed3.png" alt="ManiFast" width="3%" /></a>
 <a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/189595654-a3afee29-faf1-42ed-9553-76ce8252556b.png" alt="ManiFast" width="5%" /></a>
 <!-- <a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/189595654-a3afee29-faf1-42ed-9553-76ce8252556b.png" alt="ManiFast" height="47" width="62" />   </a> -->
  
@@ -47,7 +47,7 @@
 <!--💭-->
 <img src="https://cdn.discordapp.com/emojis/888120780649562123.gif?size=48&quality=lossless" width="22"/>  <b>_About me:_  </b>
 
-#### *19 yo talent*, interested in security and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
+#### *19 yo*, interested in security and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
 
 
 
