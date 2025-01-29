@@ -18,19 +18,20 @@
 <!--
  <p>$\textcolor{gray}{\text{------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ lol I did it by chance, not a bug just feature ahHAah)}}$</p>
 -->
-
+<!--
 <div align="center">
  <h3><i>Profiles:</i></h3>
  <!-- <h3> $\textcolor{cyan}{Profiles:}$</h3> -->
-</div>
+<!--</div>
+-->
 
 <div align="center">
-<a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" width="4%"/></a><i>      </i>
-<a href="https://t.me/Mani_Fast" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="ManiFast" height="27" width="27" /></a><i>      </i>
-<a href="https://www.instagram.com/mani_fastt/" target="blank"><img align="center" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram.png" alt="royryando" width="4%" /></a><i>      </i>
-<a href="https://steamcommunity.com/id/manifast/" target="blank"><img align="center" src="https://camo.githubusercontent.com/2e51cfa2846afbace22819d8c7dd9afad50d0a414ad1d7d30e811952706f548d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737465616d2e737667" alt="ManiFast" height="27" width="27" /></a><i>    </i>
-<a href="http://a0791192.xsph.ru/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/224661473-5fa71865-e5d7-4147-acf5-1af2ad76fed3.png" alt="ManiFast" width="5%" /></a>
-<a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/189595654-a3afee29-faf1-42ed-9553-76ce8252556b.png" alt="ManiFast" width="6%" /></a>
+<a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" width="2%"/></a><i>      </i>
+<a href="https://t.me/Mani_Fast" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Classic-Logo.wine.svg" alt="TG" height="27" width="27" /></a><i>      </i>
+<a href="https://www.instagram.com/mani_fastt/" target="blank"><img align="center" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram.png" alt="royryando" width="3%" /></a><i>      </i>
+<a href="https://steamcommunity.com/id/manifast/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" alt="ManiFast" width="2%" /></a><i>    </i>
+<a href="http://a0791192.xsph.ru/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/224661473-5fa71865-e5d7-4147-acf5-1af2ad76fed3.png" alt="ManiFast" width="2%" /></a>
+<a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/189595654-a3afee29-faf1-42ed-9553-76ce8252556b.png" alt="ManiFast" width="5%" /></a>
 <!-- <a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62830326/189595654-a3afee29-faf1-42ed-9553-76ce8252556b.png" alt="ManiFast" height="47" width="62" />   </a> -->
  
 <!-- OLD SPOTIFY PROFILE
@@ -44,19 +45,10 @@
   
 <!-- > ||||||*** -->
 <!--💭-->
-><img src="https://cdn.discordapp.com/emojis/888120780649562123.gif?size=48&quality=lossless" width="22"/>  <b>_About me:_  </b>
+<img src="https://cdn.discordapp.com/emojis/888120780649562123.gif?size=48&quality=lossless" width="22"/>  <b>_About me:_  </b>
 
-#### *19 yo talent*, interested in security (especially in cyber security 🟥Team) and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
+#### *19 yo talent*, interested in security and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/><!-- and in my free time I play games-->  <!--<img src="https://cdn.discordapp.com/emojis/710971603328041050.webp?size=96&quality=lossless" width="20">or make bit-->.
 
-
-<details close>
- <summary><h6>More</h6></summary>
-<b><img src="https://cdn.discordapp.com/emojis/1055929115997376593.gif?size=48&quality=lossless" width="2%"/>     In my free time, I work on various programs in different languages, I am fond of IT virology and everything related to pentesting, also interested in administration and running-support servers, in addition can read and absorb tones of information about this case. 
-</br></br>     From birth had a PC and mastered Haskell lmao. Pay great attention to the little things, I don’t notice how the morning has already come) and I don't pay any cent for my video or online courses in IT coz "Who seeks will find !".
-</br></br>     I run a YouTube channel, write two small books yet, like directory and try to <strike>f***</strike> win competitors in my way. Btw I use Linux). I gave my preference to the distribution Kali, Arch and Void (others looks ugly) and the desktop environment such as <a href="https://itsfoss.com/best-xfce-themes/">Xfce</a>, <a href="https://www.reddit.com/r/unixporn/comments/dhbmip/bspwm_this_forest_is_so_beautiful">bspwm</a> or <a href="https://www.reddit.com/r/unixporn/comments/i938qh/openbox/">openbox</a>, check my so sexy <a href="https://github.com/ManiFast/DeskTop/blob/main/Screenshot_2023-07-05_11_10_22.png">desktops</a> <3.
-</br></br>     Global at minimum in csgo. Of corse have experience in hack, in radio tools, arduino, maybe it was passed down from dad as he is a specialist in radio technology. In general, genius of thought XD*
-</br>     Favourite performers: Satori Zoom, remember (ZAPOMNI), bbno\$, Dxrk ...<img src="https://cdn.discordapp.com/emojis/1055929115997376593.gif?size=48&quality=lossless" width="2%"/></b></h6>
-</details>
 
 
 <!--## 🛠 Some of skills:-->
@@ -131,7 +123,7 @@
  <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="10">
  
  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&cover_image=true&theme=novatorem" alt="spotify-github-profile">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=237qyqinklwe1q10e0lreu6il&cover_image=true&theme=novatorem" alt="">
  </a>
  
  <img src="https://cdn.discordapp.com/emojis/994044420192215120.gif?size=96&quality=lossless" width="10">
@@ -156,21 +148,10 @@
   
 <!-- PC -->
 <details>
-<summary> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="25"/> My setup:</summary>
+<summary> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="25"/> Setup:</summary>
 
-<p><b>Monitors: </b> <small>1.(BENQ 4k FHD 32* EW3270) | 2.(Dell FHD 24* S2419H ␡)      <img src="https://cdn.discordapp.com/emojis/1055929115997376593.gif?size=48&quality=lossless" width="2%"/>                                                  </p>
- 
-<p><b>CPU: </b> Intel® Core i7 9th        <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                 <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                            <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                                   <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                  </p>
- 
-<p><b>GPU: </b> 1060 and 1080i    <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>           <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>        </p>
- 
-<p><b>Bass: </b> Yamaha x2, Microlab TMN 1             <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                         <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                  <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>    </p>
-<p><b>RAM: </b> Crucial ballistix 8gb x2         <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                              <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                              <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                                </p>
- 
-<p><b>Case: </b> Thermaltake Versa J24 Tempered Glass RGB Edition          <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                        <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                 <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                       </p>
- 
- <i>at the time of writing 24/01/2025            <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                         <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                  </i>
-</h6>
+<p><b> i7-9 1080ti <img src="https://cdn.discordapp.com/emojis/1055929115997376593.gif?size=48&quality=lossless" width="2%"/>                                                  </p>
+ <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                         <img src="https://cdn.discordapp.com/emojis/837456206942437456.gif?size=48&quality=lossless" width="1%"/>                  </i>
 </details>
  
  #
@@ -201,4 +182,4 @@
   <p>🇷🇺<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇷🇸<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇧🇬<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇧🇾<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇨🇳<img src="https://cdn.discordapp.com/emojis/923655187015553024.webp?size=96&quality=lossless" width="15">🇺🇿
   </p>
  </div>
-</div
+</div>
