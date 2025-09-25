@@ -75,23 +75,23 @@
    <tr>
     <th aligin="right">Category</th>
     <th aligin="center">Technologies</th>
-   </tr>
+   </tr> -->
    <tr>
     <td align="left">Core</td>
     <td><img src="https://skillicons.dev/icons?i=cpp" height="35px"/><img src="https://skillicons.dev/icons?i=c,cs,js,py,linux" height="35px"/></td>
    </tr>
    <tr>
    <td align="left">Miscellaneous</td>
-   <td><img src="https://skillicons.dev/icons?i=bash,markdown,git,arduino,github" height="35px"/></td>
+   <td><img src="https://skillicons.dev/icons?i=bash,vim,arduino,ahk,raspberrypi" height="35px"/></td>
    </tr>
-   <tr>
+   <!-- <tr>
      <td align="left">Creative</td>
      <td><img src="https://skillicons.dev/icons?i=ps,pr,au,flstudio" height="35px"/></td>
    </tr>
    <tr>
     <td align="left">Fav. Editors</td>
     <td><img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim" height="35px"/></td>
-   </tr>
+   </tr> -->
    <tr align="left">
     <td>Fav. Distributions</td>
     <td><img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20"> Void,  <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20"> Arch,  <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18"> Debian  <img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> Kali</td>
