@@ -45,7 +45,7 @@
   
 <!-- > ||||||*** -->
 <!--💭-->
-<img src="https://cdn.discordapp.com/emojis/888120780649562123.gif?size=48&quality=lossless" width="22"/>  <b>_About:_  </b> #### *19 yo*, interested in security and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/>
+<img src="https://cdn.discordapp.com/emojis/888120780649562123.gif?size=48&quality=lossless" width="22"/>  <b>_About:_  </b> *19 yo*, interested in security and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/>
 
 
 
