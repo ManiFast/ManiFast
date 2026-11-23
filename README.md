@@ -25,7 +25,7 @@
 <!--</div>
 -->
 
-<div align="center">
+<!--<div align="center">
 <a href="https://www.youtube.com/@mani_Fast" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" alt="ManiFast" width="2%"/></a><i>      </i>
 <a href="https://t.me/Mani_Fast" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Classic-Logo.wine.svg" alt="TG" height="27" width="27" /></a><i>      </i>
 <a href="https://www.instagram.com/mani_fastt/" target="blank"><img align="center" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram.png" alt="royryando" width="3%" /></a><i>      </i>
@@ -40,13 +40,13 @@
 <a href="https://www.deviantart.com/manifaststas" target="blank"><img align="center" src="https://pngpress.com/wp-content/uploads/2020/03/Deviantart-Logo-Transparent.png" alt="ManiFast" height="35" width="35" /></a>
 -->
  
-</div>
+<!--</div>
 
   
 <!-- > ||||||*** -->
 <!--💭-->
-<img src="https://cdn.discordapp.com/emojis/888120780649562123.gif?size=48&quality=lossless" width="22"/>  <b>_About:_  </b> *19 yo*, interested in security and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/>
-
+<!--<img src="https://cdn.discordapp.com/emojis/888120780649562123.gif?size=48&quality=lossless" width="22"/>  <b>_About:_  </b> *19 yo*, interested in security and software `>_` <img src="https://user-images.githubusercontent.com/75932477/153189525-485cff64-73e6-460a-ab6e-903c7c899395.gif" width="25"/>
+-->
 
 
 <!--## 🛠 Some of skills:-->
@@ -65,11 +65,11 @@
 <!--![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b%&logoColor=6296CC)
 -->
 
-<div align="center">
+<!--<div align="center">
  <!-- <details open>
    <summary><b>🛠 Tech Stack</b></summary> -->
   
-  <table>
+  <!--<table>
    <!-- <tr>
     <th aligin="right">Category</th>
     <th aligin="center">Technologies</th>
@@ -79,7 +79,7 @@
     <td><img src="https://skillicons.dev/icons?i=cpp" height="35px"/><img src="https://skillicons.dev/icons?i=c,cs,js,py,linux" height="35px"/></td>
    </tr>
    <tr> -->
-   <td align="left">Miscellaneous</td>
+   <!--<td align="left">Miscellaneous</td>
    <td><img src="https://skillicons.dev/icons?i=bash,vim,arduino,raspberrypi" height="35px"/></td>
    </tr>
    <!-- <tr>
@@ -90,14 +90,14 @@
     <td align="left">Fav. Editors</td>
     <td><img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim" height="35px"/></td>
    </tr> -->
-   <tr align="left">
+   <!--<tr align="left">
     <td>Fav. Distributions</td>
     <td><img src="https://user-images.githubusercontent.com/62830326/192004168-d45275ae-1076-4a75-b505-9fc1557a70a0.png" width="20"> Void,  <img src="https://cdn.discordapp.com/emojis/923356424946483292.webp?size=96&quality=lossless" width="20"> Arch,  <img src="https://cdn.discordapp.com/emojis/932091501402521672.webp?size=96&quality=lossless" width="18"> Debian  <img src="https://cdn.discordapp.com/emojis/932093234891608086.webp?size=96&quality=lossless" width="25"> Kali</td>
    </tr>
   </table>
     
  <!--</details>-->
-</div>
+<!--</div>
  
 
  
@@ -111,7 +111,7 @@
 <!--###### I l<img src="https://cdn.discordapp.com/emojis/974236147943358464.gif?size=96&quality=lossless" width="25">ve what I do and I get high when everything works out ✔️.
 -->
 
-<div align="center">
+<!--<div align="center">
  <img src="https://cdn.discordapp.com/emojis/732773991135313980.gif?size=48&quality=lossless">
  <img src="https://cdn.discordapp.com/emojis/732774032226779200.gif?size=48&quality=lossless">
  <img src="https://cdn.discordapp.com/emojis/732774065152065587.gif?size=48&quality=lossless">
@@ -145,7 +145,7 @@
  -->
   
 <!-- PC -->
-<details>
+<!--<details>
 <summary> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="25"/> Setup:</summary>
 
 <p><b> i7-9 1080ti <img src="https://cdn.discordapp.com/emojis/1055929115997376593.gif?size=48&quality=lossless" width="2%"/>                                                  </p>
@@ -156,7 +156,7 @@
  
 <div align="center">
  <!-- check cool src of langs XD -->
- <a><img align="left" src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl" alt="ManiFast" width="37%" /></a>
+ <!--<a><img align="left" src="https://github-readme-stats-lake-gamma.vercel.app/api/top-langs/?username=manifast&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&exclude_repo=LumenArchive,EttusB210-Interface&hide=Makefile,Tcl" alt="ManiFast" width="37%" /></a>
  
  <a href="https://disk.yandex.ru/d/FU2ypphTf5gv1Q"><img align="left" src="https://github.com/Stas-inside/Stas-inside/blob/main/github-user-contribution.svg" alt="ManiFast" width="55%" /></a>
 
@@ -170,7 +170,7 @@
 [![Header](https://github.com/Stas-inside/Stas-inside/blob/main/assets/qr-code-636f92247a892c78001a0583c3d2ee06.png)](https://www.youtube.com/channel/UCKcWOEWJ1hrUW1irBZz-8xQ)
 -->
 
-<div align="left
+<!--<div align="left
  <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=manifast&label=Profile%20views&color=65CAFF&style=for-the-badge" width="15%" alt="counter" />
   <img src="https://cdn.discordapp.com/emojis/952168776328163338.gif?size=96&quality=lossless" width="15">
